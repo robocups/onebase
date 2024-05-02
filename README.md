@@ -9,6 +9,6 @@ https://mirror.xyz/0xmoei.eth/q6bkosOnWcQ-wkZeRoVdYiMDSWXvBeR2NuLV92SnZ_g
 7. Follow the Base instruction to submit the NFT request.
 https://base.mirror.xyz/hwNwqXHVoLlO8s4DZppog4DfGvM34tigaDjOWuEJQfY
 ```
-Connect deployer wallet to builder.base.org and complete the form (<2min)
+Connect deployer wallet to builder.base.org and complete the
 Do not deploy your front-end until our Mainnet GA launch in early August, when we open Base for everyone
 ```
