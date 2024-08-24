@@ -13,3 +13,11 @@ Connect deployer wallet to builder.base.org and complete the
 Do not deploy your front-end until our Mainnet GA launch in early August, when we open Base for everyone
 ```
 42
+/** @type {import('next').NextConfig} */
+const nextConfig1 = {
+  reactStrictMode: true,
+  swcMinify: true,
+  reactStrictMode: true,
+}
+
+module.exports = nextConfig1
